@@ -4,5 +4,4 @@ API
 .. autosummary::
    :toctree: generated
 
-   lumache
-   テストですよ
+   lumache Add
